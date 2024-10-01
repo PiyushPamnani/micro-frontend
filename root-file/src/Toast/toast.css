@@ -1,0 +1,25 @@
+.toast-container {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 9999;
+}
+
+.toast {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  color: white;
+}
+
+.toast-vue {
+  background-color: blue;
+}
+
+.toast-react {
+  background-color: green;
+}
+
+.toast-angular {
+  background-color: red;
+}
